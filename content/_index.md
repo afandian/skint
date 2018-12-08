@@ -1,6 +1,20 @@
 ---
 title: Skint
 date: 2017-03-11T00:00:55+00:00
+
+resources:
+- name: "car01"
+  src: "car_01.jpg"
+  title: "© 2015 Ben Reid"
+- name: "car02"
+  src: "car_02.jpg"
+  title: "© 2014 Ben Reid"
+- name: "car03"
+  src: "car_03.jpg"
+  title: "© 2014 David Heath"
+- name: "car04"
+  src: "car_04.jpg"
+  title: "© 2014 David Heath"
 ---
 
 ### What is Skint?
