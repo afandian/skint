@@ -3,6 +3,12 @@
     padding-bottom: 40px;
 }
 
+@media (min-width: 768px) {
+    .skint-container {
+        width: 75% !important;
+    }
+}
+
 body:not(.home-body) {
     background: #ffffff;
     background: url("/inkscape/dancers.svg") no-repeat, linear-gradient(transparent, transparent);
