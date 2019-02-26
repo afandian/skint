@@ -170,3 +170,7 @@ table.resource-table {
 .input-group-addon {
     background-color: transparent!important;
 }
+
+.carousel {
+    margin: auto;
+}
