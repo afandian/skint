@@ -1,5 +1,45 @@
 [
     {
+        "displayName": "Bridgewater",
+        "year": 2018,
+        "category": "Sheet Music",
+        "tuneType": "Choral",
+        "workshop": "Sacred Harp",
+        "source": "https://drive.google.com/open?id=1QZtMzH8JMnHpy9PpXirnnZmXtQuU5aVh"
+    },
+    {
+        "displayName": "Idumea",
+        "year": 2018,
+        "category": "Sheet Music",
+        "tuneType": "Choral",
+        "workshop": "Sacred Harp",
+        "source": "https://drive.google.com/open?id=1fSewcKC1KzwJs3F7vL3TWBuFOEoiGDeL"
+    },
+    {
+        "displayName": "Oak Grove",
+        "year": 2018,
+        "category": "Sheet Music",
+        "tuneType": "Choral",
+        "workshop": "Sacred Harp",
+        "source": "https://drive.google.com/open?id=1o3SOgd8eHuyZP5bjCxsHw6kZuCWcR5E5"
+    },
+    {
+        "displayName": "Old Hundred",
+        "year": 2018,
+        "category": "Sheet Music",
+        "tuneType": "Choral",
+        "workshop": "Sacred Harp",
+        "source": "https://drive.google.com/open?id=1LLfvLkJBE33N4HukB4RcSmBO2NQmfuJE"
+    },
+    {
+        "displayName": "Primrose",
+        "year": 2018,
+        "category": "Sheet Music",
+        "tuneType": "Choral",
+        "workshop": "Sacred Harp",
+        "source": "https://drive.google.com/open?id=1ciB_99VScxLVoRS7yO9lCyO5AZyQ5swx"
+    },
+    {
         "displayName": "Bayati Shiraz",
         "year": 2018,
         "category": "Recording",
