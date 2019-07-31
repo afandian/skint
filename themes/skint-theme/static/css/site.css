@@ -174,3 +174,7 @@ table.resource-table {
 .carousel {
     margin: auto;
 }
+
+h3 {
+    margin-bottom: 25px;
+}

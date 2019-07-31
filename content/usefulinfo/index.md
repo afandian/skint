@@ -46,26 +46,26 @@ date: 2017-03-11T00:00:55+00:00
 
 ### Food
 
-If you book a full weekend you will be included in the communally prepared meals (breakfast, lunch and supper). Meals are vegetarian. Other diets, e.g. vegan, gluten-free, can be catered for. Let us know when you sign up.
+If you have booked meals then you will be included in the communally prepared meals.  All meals are vegetarian.  If you have any other dietary requirements / allergies then please let us know on the boking form, or drop us [an email at skint.dance@gmail.com](mailto:skint.dance@gmail.com)
 
-Please bring your own drinks - water, juice, tea and coffee will be provided.
+Please bring your own drinks - water, juice, tea, and coffee will be provided.
 
-If you have a day or evening place with no meals provided, you may bring your own food and eat in the hall but you will not be able to use the kitchen for preparing it, due to space constraints. There are also 3 pubs in the village.
+If you have not booked for a meal, then you may bring your own food, but unfortunately there will be limited seating space and you will be unable to use the kitchen in the hall.  There are also 3 pubs in the village which serve fantastic food.
 
-### Indoor camping
+### Accommodation
 
-Included in the full weekend place. It means sleeping bags and mattresses on the floor in the hall. You'll need to bring a sleeping bag, mat and pillow. As everyone is sleeping in close proximity and there may be music late into the night in adjoining rooms, we suggest that you bring earplugs!
+#### Indoor camping
 
-### Outdoor camping
+Sleeping bags and mattresses on the floor in the hall. You’ll need to bring a sleeping bag, mat, and pillow. As everyone is sleeping in close proximity and there may be music late into the night in adjoining rooms, we suggest that you bring earplugs!
 
-Included in the full weekend place. If you prefer more space, not having to move your bed each morning and less snoring, there is a camping field very close to the hall.
+#### Outdoor camping
 
-You will be asked to state your preference for indoor or outdoor camping on the booking form, just so we have an idea of numbers in advance.
+If you prefer more space, not having to move your bed each morning and less snoring, there is a camping field very close to the hall.
 
-For those of you without full weekend places there is a charge of £5 per person per night.
+Both indoor & outdoor camping can be booked on our booking page and costs £8 per person (this includes camping on both Friday & Saturday nights).
 
-There are also B&amp;Bs and self-catering cottages nearby.
-
+#### Local accommodation
+There are also B&Bs and self-catering cottages nearby.
 
 [Peak District Online - accommodation &amp; info](http://www.peakdistrictonline.co.uk/ashover-c2537.html)
 

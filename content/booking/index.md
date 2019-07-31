@@ -3,21 +3,14 @@ title: Booking
 date: 2017-03-11T00:00:55+00:00
 ---
 
+#### <span style="color:#b00000">Bookings open at 7pm (UK time) on 14th August 2019</span>
+<br/>
+
 <h3>Booking Process</h3>
 
-Last year we tried a new booking process and seeing as how it worked so beautifully we're going to stick with it this year as well.  Those that sign up in the first half hour (7-7:30pm) will be jumbled up and allocated places in a randomised order (so that people with slower broadband don't miss out unfairly).  After 7:30pm places will be allocated in the traditional first-come-first-served basis.  You can apply for a single place or for two, so couples don't need to worry about only one of you getting a place. 
+This year there will be no random allocation of places.  They will be sold on a first come first served basis, however, the meals can be booked as separate options on the booking form.
 
-During the booking process you will need the following information.
-
-<ul>
-    <li>Name</li>
-    <li>Email address</li>
-    <li>Contact number</li>
-    <li>Dietary requirements</li>
-    <li>Where you will be travelling from (for potential lift-sharing)</li>
-    <li>How you can help (first aid, workshops, playing for dancing, leading a meal, washing up, etc)</li>
-    <li>Whether you intend to camp indoors or outdoors - it's the same price</li>
-</ul>
+Since catering has always been the limiting factor, we anticipate this change means that everyone who wants to come to Skint will be able to, though they may need to arrange their own food for one or more of the meals.  There are some fantastic pubs in the village which serve food, as well as a small shop, and of course you are welcome to bring your own food.  (NB. Unfortunately there will be no seating or kitchen space in the hall for self-catering).
 
 <p>
     <strong>Bookings are non-transferrable</strong>
@@ -28,52 +21,82 @@ During the booking process you will need the following information.
 <div class="alert alert-danger" role="alert"><strong>Refunds will be given at 75% until a certain date, and after that no refunds.</strong></div>
 
 
-<p>
-    It's likely that if you apply after 7:30pm you will end up on the waiting list, so be there or be square!
-</p>
-
 <h3>
-    Full weekend
+    Costs
 </h3>
-<p>
-    The full weekend price includes indoor camping and all meals from Friday evening to Sunday afternoon.  They will cost &pound;35.
-</p>
-
-<h3>
-    Day &amp; evening places
-</h3>
-<p>
-    As well as weekend places we are also going to be offering day and evening places that don't include food or indoor camping.  These tickets will be available on the door.  Please email skint.dance@gmail.com if you are planning to camp outside!
-    <div class="container">
+    <div class="container" style="margin-bottom:20px">
         <div class="row justify-content-start">
             <div class="col-md-8">
-                <table class="table table-condensed table-bordered table-striped">
+                <table class="table table-condensed table-bordered" style="background-color:#fff">
                     <tr>
-                        <td>Friday evening</td><td>&pound;5</td>
+                        <th colspan="32">A place at Skint 2019</td>
                     </tr>
                     <tr>
-                        <td>Friday night outdoor camping</td><td>&pound;5</td>
+                        <td></td><td>Admission</td><td style="width:70px">&pound;18</td>
                     </tr>
                     <tr>
-                        <td>Saturday day</td><td>&pound;5</td>
+                        <th colspan="32">Meals</td>
                     </tr>
                     <tr>
-                        <td>Saturday evening</td><td>&pound;5</td>
+                        <td style="width:10px"></td><td>Friday evening, 6pm</td><td style="width:70px">&pound;4</td>
                     </tr>
                     <tr>
-                        <td>Saturday night outdoor camping</td><td>&pound;5</td>
+                        <td></td><td>Saturday lunch, 1pm</td><td>&pound;3</td>
                     </tr>
                     <tr>
-                        <td>Sunday day</td><td>&pound;5</td>
+                        <td></td><td>Saturday evening, 6pm</td><td>&pound;4</td>
+                    </tr>
+                    <tr>
+                        <td></td><td>Sunday lunch, 1pm</td><td>&pound;3</td>
+                    </tr>
+                    <tr>
+                        <th colspan="32">Camping</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Indoor
+                        <div style="font-size:smaller">Friday & Saturday nights.  Camping in the hall.  Bring camping mat, sleeping bag & ear plugs!</div>
+                        </td><td style="width:70px">&pound;8</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Outdoor
+                        <div style="font-size:smaller">Friday & Saturday nights.  Camping in a nearby field.  Bring a tent & thermals!</div>
+                        </td><td style="width:70px">&pound;8</td>
+                    </tr>
+                </table>
+
+                <span style="font-size:smaller;color:#665">e.g. All dances, all meals, with indoor camping is &pound;40 (18 + 4 + 3 + 4 + 3 + 8)</span>
+            </div>
+        </div>
+    </div>
+
+    
+<h3>Tickets on the door</h3>
+
+If there are any tickets for the workshops, bals, or camping still available, these will be available to buy on the door.  Meal tickets will not be available on the door.
+
+
+<div class="container">
+        <div class="row justify-content-start">
+            <div class="col-md-8">
+                <table class="table table-condensed table-bordered" style="background-color:#fff">
+                    <tr>
+                        <th colspan="32">Door prices</td>
+                    </tr>
+                    <tr>
+                        <td style="width:10px"></td><td>Friday evening bal, from 8pm</td><td style="width:70px">&pound;5</td>
+                    </tr>
+                    <tr>
+                        <td></td><td>Saturday workshops</td><td>&pound;5</td>
+                    </tr>
+                    <tr>
+                        <td></td><td>Saturday evening bal, from 8pm</td><td>&pound;5</td>
+                    </tr>
+                    <tr>
+                        <td></td><td>Sunday workshops and bal</td><td>&pound;5</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-</p>
-</ul>
-
-<h3>Payment</h3>
-
-Payment is via GoCardless. Please pay promptly. If this is a problem, you will need to contact us via email.
-

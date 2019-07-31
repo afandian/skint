@@ -17,9 +17,13 @@ resources:
   title: "© 2014 David Heath"
 ---
 
-## 1-3rd November 2019
+
+## Skint will be on 1st - 3rd November 2019
 
 
+#### <span style="color:#b00000">Bookings open at 7pm (UK time) on 14th August 2019</span>
+<br/>
+<br/>
 
 ### What is Skint?
 Skint is a weekend of international music and dance, held each year in Derbyshire, England. One of the main aims of Skint is to make European folk dance and music accessible to all, particularly to those who may be unable to afford festivals in the UK or abroad. You can read more about our aims in our constitution.
