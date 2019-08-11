@@ -8,6 +8,8 @@ date: 2017-03-11T00:00:55+00:00
 
 <h3>Booking Process</h3>
 
+By booking you indicate that you have read and agreed to [how Skint works](/how-skint-works).
+
 This year there will be no random allocation of places.  They will be sold on a first come first served basis, however, the meals can be booked as separate options on the booking form.
 
 Since catering has always been the limiting factor, we anticipate this change means that everyone who wants to come to Skint will be able to, though they may need to arrange their own food for one or more of the meals.  There are some fantastic pubs in the village which serve food, as well as a small shop, and of course you are welcome to bring your own food.  (NB. Unfortunately there will be no seating or kitchen space in the hall for self-catering).
@@ -29,13 +31,13 @@ Since catering has always been the limiting factor, we anticipate this change me
             <div class="col-md-8">
                 <table class="table table-condensed table-bordered" style="background-color:#fff">
                     <tr>
-                        <th colspan="32">A place at Skint 2019</td>
+                        <th colspan="32">A place at Skint 2019</th>
                     </tr>
                     <tr>
                         <td></td><td>Admission</td><td style="width:70px">&pound;18</td>
                     </tr>
                     <tr>
-                        <th colspan="32">Meals</td>
+                        <th colspan="32">Meals</th>
                     </tr>
                     <tr>
                         <td style="width:10px"></td><td>Friday evening, 6pm</td><td style="width:70px">&pound;4</td>
@@ -50,7 +52,7 @@ Since catering has always been the limiting factor, we anticipate this change me
                         <td></td><td>Sunday lunch, 1pm</td><td>&pound;3</td>
                     </tr>
                     <tr>
-                        <th colspan="32">Camping</td>
+                        <th colspan="32">Camping</th>
                     </tr>
                     <tr>
                         <td></td>
@@ -82,7 +84,7 @@ If there are any tickets for the workshops, bals, or camping still available, th
             <div class="col-md-8">
                 <table class="table table-condensed table-bordered" style="background-color:#fff">
                     <tr>
-                        <th colspan="32">Door prices</td>
+                        <th colspan="32">Door prices</th>
                     </tr>
                     <tr>
                         <td style="width:10px"></td><td>Friday evening bal, from 8pm</td><td style="width:70px">&pound;5</td>

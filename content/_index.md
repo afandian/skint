@@ -32,13 +32,7 @@ Skint is a very easy-going and friendly festival. During the day there are works
 
 Skint is open to all, regardless of age or experience. You just need an interest in European folk music and dance and a willingness to get involved!
 
-### How Skint works
-
-Skint works because everyone contributes, in some form or other! Musicians play for dancing, dancers appreciate their music, and everyone helps out around the hall and in the kitchen (chopping, stirring, washing, drying!)
-
-**All of the workshop leaders and performers are unpaid volunteers**.
-
-If you'd like to offer to play or teach something do get in touch by email, or add a comment to your booking form.
+Read all about [How Skint Works!](/how-skint-works)
 
 ### Contact us
 You can email skint.dance@gmail.com
